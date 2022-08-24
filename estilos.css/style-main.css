@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #5fb1d2;
+    background: #43b0dc;
 
 }
 
@@ -126,10 +126,10 @@ main {
     font-size: 60px;
     width: 80%;
     min-width: 500px;
-
-    font-weight: 800;
-    color: white;
-    flex-direction: column;
+    background: linear-gradient(#5f2c82,#10a4df);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 
 .btn-hero {
